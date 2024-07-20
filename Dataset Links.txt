@@ -1,0 +1,2 @@
+Dataset 1: https://www.kaggle.com/datasets/arusouza/daily-eletricity-generation-by source-on-brazil
+Dataset 2: https://www.macrotrends.net/countries/BRA/brazil/gdp-gross-domestic-product
